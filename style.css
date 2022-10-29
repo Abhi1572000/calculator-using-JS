@@ -1,0 +1,42 @@
+
+body{
+    margin: 10px;
+    padding: 0;
+}
+
+.text-center{
+    text-align: center;
+}
+
+
+.container{
+    text-align: center;
+}
+
+.row{
+  
+    margin:8px 0;
+}
+.row input{
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.button{
+   
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+
+    
+} 
+button:hover{
+    font-size:medium ;
+}
